@@ -1,6 +1,10 @@
 In this project, I tried to convert the Figma design into pixel perfect
 React components that look appealing to human eye.
 
+The App can be accessed using the following link
+
+http://khizar-crypto-website.s3-website-us-east-1.amazonaws.com/
+
 You can access the design by visiting the following page
 https://www.figma.com/file/YRmTPFlHXLrmz4GO9aUylT/Flux---Figma-Build-Tutorial-(Starter)-(Community)?type=design&node-id=207-33&mode=design&t=KS4ncAbfLbCKN510-4
 
